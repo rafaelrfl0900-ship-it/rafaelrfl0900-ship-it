@@ -1,0 +1,87 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Software Engineering profile banner</title>
+  <desc id="desc">Dark technical banner with software architecture blocks, code, data, tests and delivery theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111F"/>
+      <stop offset="0.48" stop-color="#102033"/>
+      <stop offset="1" stop-color="#12221B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="96" y1="70" x2="1050" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.96 0 0 0 0.34 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M52 294C186 184 312 226 440 146C590 52 732 72 864 124C1010 182 1065 114 1150 62" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+  <circle cx="188" cy="226" r="84" fill="#38BDF8" opacity="0.09" filter="url(#softGlow)"/>
+  <circle cx="988" cy="116" r="96" fill="#22C55E" opacity="0.08" filter="url(#softGlow)"/>
+
+  <g transform="translate(70 70)">
+    <rect x="0" y="0" width="92" height="28" rx="14" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text x="46" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#7DD3FC" letter-spacing="1.5">RAFAEL</text>
+
+    <text x="0" y="82" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#F8FAFC">Engenharia de</text>
+    <text x="0" y="142" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#accent)">Software</text>
+    <text x="3" y="182" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#CBD5E1">Full-stack | APIs | Dados | Testes | Automacao</text>
+
+    <g transform="translate(0 216)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">
+      <rect x="0" y="0" width="116" height="32" rx="16" fill="#0EA5E9" fill-opacity="0.16" stroke="#38BDF8" stroke-opacity="0.4"/>
+      <text x="58" y="21" text-anchor="middle" fill="#BAE6FD">TypeScript</text>
+      <rect x="128" y="0" width="86" height="32" rx="16" fill="#22C55E" fill-opacity="0.15" stroke="#4ADE80" stroke-opacity="0.38"/>
+      <text x="171" y="21" text-anchor="middle" fill="#BBF7D0">React</text>
+      <rect x="226" y="0" width="92" height="32" rx="16" fill="#F59E0B" fill-opacity="0.15" stroke="#FBBF24" stroke-opacity="0.38"/>
+      <text x="272" y="21" text-anchor="middle" fill="#FDE68A">NestJS</text>
+      <rect x="330" y="0" width="116" height="32" rx="16" fill="#A855F7" fill-opacity="0.12" stroke="#C084FC" stroke-opacity="0.36"/>
+      <text x="388" y="21" text-anchor="middle" fill="#E9D5FF">PostgreSQL</text>
+    </g>
+  </g>
+
+  <g transform="translate(705 54)">
+    <rect x="0" y="0" width="405" height="252" rx="22" fill="#07111F" fill-opacity="0.82" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="0" y="0" width="405" height="42" rx="22" fill="#FFFFFF" fill-opacity="0.07"/>
+    <circle cx="26" cy="21" r="6" fill="#F87171"/>
+    <circle cx="48" cy="21" r="6" fill="#FBBF24"/>
+    <circle cx="70" cy="21" r="6" fill="#34D399"/>
+
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600">
+      <text x="26" y="78" fill="#7DD3FC">const</text>
+      <text x="78" y="78" fill="#F8FAFC">sistema</text>
+      <text x="144" y="78" fill="#CBD5E1">=</text>
+      <text x="166" y="78" fill="#86EFAC">arquitetar</text>
+      <text x="258" y="78" fill="#CBD5E1">({`</text>
+      <text x="48" y="112" fill="#FDE68A">dominio</text>
+      <text x="120" y="112" fill="#CBD5E1">:</text>
+      <text x="142" y="112" fill="#93C5FD">'operacoes'</text>
+      <text x="48" y="146" fill="#FDE68A">qualidade</text>
+      <text x="132" y="146" fill="#CBD5E1">:</text>
+      <text x="154" y="146" fill="#93C5FD">'testes'</text>
+      <text x="48" y="180" fill="#FDE68A">dados</text>
+      <text x="96" y="180" fill="#CBD5E1">:</text>
+      <text x="118" y="180" fill="#93C5FD">'confiaveis'</text>
+      <text x="26" y="214" fill="#CBD5E1">});</text>
+    </g>
+  </g>
+
+  <g transform="translate(590 218)">
+    <rect x="0" y="0" width="84" height="42" rx="12" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <rect x="120" y="-56" width="84" height="42" rx="12" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.55"/>
+    <rect x="120" y="56" width="84" height="42" rx="12" fill="#F59E0B" fill-opacity="0.12" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <path d="M84 21H112C118 21 120 6 120 -35" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+    <path d="M84 21H112C118 21 120 48 120 77" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+    <text x="42" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#BAE6FD">API</text>
+    <text x="162" y="-29" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#BBF7D0">DATA</text>
+    <text x="162" y="83" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#FDE68A">CI/CD</text>
+  </g>
+</svg>
