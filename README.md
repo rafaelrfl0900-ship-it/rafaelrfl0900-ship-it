@@ -27,7 +27,7 @@ Tenho trabalhado com projetos que combinam frontend, backend, banco de dados, au
 ## Projetos em destaque
 
 - [Nexus Operacional](https://github.com/rafaelrfl0900-ship-it/nexus-operacional): centro de comando para produção, perdas, paradas, produtividade, auditoria, relatórios, importação de planilhas e dashboards.
-- [Fisio Nadine](https://github.com/rafaelrfl0900-ship-it/fisio_nadine): projeto web para presença digital e organização de informações de atendimento.
+- [Fisio Nadine](https://github.com/rafaelrfl0900-ship-it/fisio_nadine): projeto web em desenvolvimento.
 - [Decodificador](https://github.com/rafaelrfl0900-ship-it/decodificador), [Displayer](https://github.com/rafaelrfl0900-ship-it/displayer), [Somador e Subtrador Completo](https://github.com/rafaelrfl0900-ship-it/SOMADOR-E-SUBTRADOR-COMPLETO) e [Flip-flop JK](https://github.com/rafaelrfl0900-ship-it/flip_flop_jk-simples): estudos práticos de lógica digital.
 
 ## Como eu gosto de construir
