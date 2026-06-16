@@ -5,66 +5,67 @@
 <h1 align="center">Rafael Cornelius</h1>
 
 <p align="center">
-  <strong>Desenvolvedor em formação, focado em aplicações web, sistemas práticos e segurança consciente.</strong>
+  <strong>Estudante em desenvolvimento, montando meu portfólio e aprendendo programação passo a passo.</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=React+%2B+TypeScript;Interfaces+claras+e+funcionais;Projetos+educativos+e+bem+documentados;Aprendendo%2C+construindo+e+publicando" alt="Animação com áreas de interesse" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aprendendo+programa%C3%A7%C3%A3o;Portf%C3%B3lio+em+constru%C3%A7%C3%A3o;Projetos+para+praticar+e+evoluir;Cada+reposit%C3%B3rio+%C3%A9+parte+do+processo" alt="Animação sobre aprendizado em desenvolvimento" />
 </p>
 
 <p align="center">
   <a href="https://github.com/rafaelrfl0900-ship-it?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
+    <img src="https://img.shields.io/badge/Projetos-em%20constru%C3%A7%C3%A3o-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projetos em construção no GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Foco-Frontend%20%2B%20Web-0EA5E9?style=for-the-badge" alt="Foco em frontend e web" />
-  <img src="https://img.shields.io/badge/Estudo-Seguran%C3%A7a%20Digital-22C55E?style=for-the-badge" alt="Estudo de segurança digital" />
+  <img src="https://img.shields.io/badge/Status-aprendendo-0EA5E9?style=for-the-badge" alt="Status aprendendo" />
+  <img src="https://img.shields.io/badge/Foco-praticar%20com%20projetos-22C55E?style=for-the-badge" alt="Foco em praticar com projetos" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou o Rafael. Gosto de transformar ideias em projetos que realmente funcionam: telas bem organizadas, fluxos claros, documentação útil e código simples de manter.
+Sou o Rafael. Estou no começo da minha caminhada em desenvolvimento e uso este GitHub para registrar minha evolução, meus testes e os projetos que estou construindo enquanto aprendo.
 
-Atualmente venho estudando desenvolvimento web com foco em React, TypeScript, boas práticas de interface e projetos educativos. Meu objetivo é evoluir como desenvolvedor criando aplicações completas, apresentáveis e fáceis de explicar.
+As tecnologias citadas aqui fazem parte do meu mapa de estudos. Não estou dizendo que domino todas elas ainda: estou praticando, errando, melhorando e organizando meu portfólio aos poucos.
 
-## Agora
+## Em desenvolvimento agora
 
-- Construindo projetos web com React, TypeScript e Vite.
-- Praticando organização de componentes, responsividade e documentação.
-- Estudando segurança digital de forma ética e educativa.
-- Melhorando meu portfólio no GitHub com projetos mais claros e bem apresentados.
+- Aprendendo fundamentos de programação e lógica.
+- Praticando HTML, CSS e JavaScript em projetos pequenos.
+- Começando a estudar React, TypeScript e Vite.
+- Melhorando organização de arquivos, componentes e README.
+- Estudando segurança digital de forma introdutória, ética e educativa.
 
-## Tecnologias
+## Mapa de estudos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,html,css,js,python,git,github,vscode&theme=dark" alt="Ícones de tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,git,github,vscode&theme=dark" alt="Tecnologias em estudo" />
 </p>
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Frontend</h3>
-      <p>React, TypeScript, JavaScript, HTML, CSS, Vite e interfaces responsivas.</p>
+      <h3>Estou aprendendo</h3>
+      <p>HTML, CSS, JavaScript, lógica de programação, Git, GitHub e organização de projetos.</p>
     </td>
     <td width="50%">
-      <h3>Base técnica</h3>
-      <p>Git, GitHub, Python, lógica de programação, documentação e organização de projeto.</p>
+      <h3>Começando a praticar</h3>
+      <p>React, TypeScript, Vite, componentização, responsividade e documentação técnica.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Interesses</h3>
-      <p>Aplicações web, usabilidade, automação, segurança digital e projetos educacionais.</p>
+      <h3>Tenho interesse</h3>
+      <p>Aplicações web, interfaces simples, automação, segurança digital e projetos educativos.</p>
     </td>
     <td width="50%">
-      <h3>Como eu trabalho</h3>
-      <p>Prefiro soluções diretas, visuais limpos, commits objetivos e README que explica o projeto sem enrolação.</p>
+      <h3>Meu objetivo</h3>
+      <p>Transformar estudos em projetos reais, bem explicados e fáceis de testar.</p>
     </td>
   </tr>
 </table>
 
-## Projetos em destaque
+## Projetos em desenvolvimento
 
 <p align="center">
   <a href="https://github.com/rafaelrfl0900-ship-it/nexus-operacional">
@@ -75,33 +76,36 @@ Atualmente venho estudando desenvolvimento web com foco em React, TypeScript, bo
   </a>
 </p>
 
+> Estes projetos fazem parte do meu aprendizado. Alguns pontos ainda podem estar incompletos, simples ou em melhoria.
+
 ### Simulador educativo de phishing
 
-Também estou organizando um simulador local e educativo sobre phishing corporativo. A proposta é demonstrar, de forma segura, como uma mensagem aparentemente legítima pode conduzir a um login falso, revelar os sinais de alerta e ensinar prevenção sem coletar ou transmitir credenciais.
+Também estou desenvolvendo um simulador local e educativo sobre phishing corporativo. A proposta é aprender e demonstrar, de forma segura, como uma mensagem aparentemente legítima pode levar a uma tela falsa, revelar sinais de alerta e reforçar prevenção sem coletar ou transmitir credenciais.
 
-## Visão técnica
+## Visual do processo
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/architecture-flow.svg" alt="Fluxo visual de arquitetura de software" />
+  <img width="100%" src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/main/assets/architecture-flow.svg" alt="Fluxo visual de estudos e arquitetura" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelrfl0900-ship-it&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrfl0900-ship-it&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrfl0900-ship-it&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas nos repositórios" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelrfl0900-ship-it&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelrfl0900-ship-it&theme=tokyo-night&hide_border=true&area=true&custom_title=Evolu%C3%A7%C3%A3o%20no%20GitHub" alt="Gráfico de evolução no GitHub" />
 </p>
 
 ## Próximos passos
 
-- Publicar mais projetos com README completo.
-- Melhorar responsividade, acessibilidade e acabamento visual das interfaces.
-- Criar demonstrações locais seguras para temas de tecnologia e segurança.
-- Evoluir projetos pequenos em aplicações bem explicadas e fáceis de testar.
+- Publicar mais projetos simples e bem documentados.
+- Melhorar cada repositório aos poucos.
+- Estudar melhor JavaScript antes de avançar demais nas ferramentas.
+- Praticar React e TypeScript com projetos pequenos.
+- Deixar o GitHub como registro real da minha evolução.
 
 <p align="center">
   <strong>Obrigado pela visita.</strong><br />
-  Meus repositórios mostram minha evolução projeto por projeto.
+  Este perfil está em desenvolvimento, assim como meu aprendizado.
 </p>
