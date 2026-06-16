@@ -1,4 +1,4 @@
-## Oiii eu sou o Rafael Cornelius, estudante de programação e tecnologia em desenvolvimento!
+## Oiii eu sou o Rafael Cornelius, aspirante em programação e tecnologia em desenvolvimento! voltado a Engenharia de Softwer
 
 Sou iniciante e estou usando este GitHub para registrar minha evolução. As linguagens e ferramentas abaixo fazem parte do meu aprendizado: ainda estou praticando, testando e melhorando cada projeto aos poucos.
 
