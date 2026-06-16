@@ -37,9 +37,4 @@ Sou iniciante e estou usando este GitHub para registrar minha evolução. As lin
 
 ##
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/output/github-snake.svg" alt="Snake animation">
-  </picture>
-</div>
+![Snake animation](https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/output/github-snake.svg)
