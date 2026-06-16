@@ -1,12 +1,22 @@
-## Oiii eu sou o Rafael Cornelius, aspirante em programação e tecnologia, voltado a Engenharia de Software!
+## Olá, eu sou o Rafael Cornelius
 
-Sou iniciante e estou usando este GitHub para registrar minha evolução. As linguagens e ferramentas abaixo fazem parte do meu aprendizado: ainda estou praticando, testando e melhorando cada projeto aos poucos.
+Aspirante a Engenharia de Software, em formação, construindo projetos para aprender programação com prática real, documentação e melhoria contínua.
 
 <div align="center">
   <a href="https://github.com/rafaelrfl0900-ship-it?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=BD93F9&center=true&vCenter=true&width=850&lines=Aprendendo+programa%C3%A7%C3%A3o;Projetos+em+desenvolvimento;Portf%C3%B3lio+em+constru%C3%A7%C3%A3o;Evoluindo+um+commit+por+vez" alt="Texto animado sobre aprendizado e projetos em desenvolvimento" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=BD93F9&center=true&vCenter=true&width=850&lines=Aprendendo+programa%C3%A7%C3%A3o+com+projetos;Organizando+c%C3%B3digo+e+documenta%C3%A7%C3%A3o;Evoluindo+um+commit+por+vez;Construindo+base+para+engenharia+de+software" alt="Texto animado sobre aprendizado e engenharia de software" />
   </a>
 </div>
+
+Sou iniciante, mas estou tentando construir meu GitHub do jeito certo: deixando claro o que cada projeto faz, quais decisões técnicas existem, quais limitações ainda precisam ser resolvidas e quais próximos passos vou atacar.
+
+## O que quero demonstrar aqui
+
+- Capacidade de transformar uma ideia em projeto navegável.
+- Honestidade sobre o que ainda está em estudo.
+- Evolução visível: README, organização, commits e refatorações.
+- Cuidado com UX, fluxo de telas e documentação.
+- Interesse em qualidade: testes, separação de responsabilidades, validação e deploy local.
 
 <div align="center">
   <a href="https://github.com/rafaelrfl0900-ship-it">
@@ -17,33 +27,26 @@ Sou iniciante e estou usando este GitHub para registrar minha evolução. As lin
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/rafaelrfl0900-ship-it?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafaelrfl0900-ship-it&theme=dracula&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="Troféus do GitHub do Rafael" />
-  </a>
-</div>
+## Tecnologias em estudo
 
 <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://react.dev/" target="_blank"><img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Rafael-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-  <a href="https://github.com/" target="_blank"><img align="center" alt="Rafael-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="TypeScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://react.dev/" target="_blank"><img align="center" alt="React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img align="center" alt="Next.js" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 </div>
 
-##
+## Projetos em foco
 
-<div>
-  <a href="https://github.com/rafaelrfl0900-ship-it" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub do Rafael"></a>
-  <a href="https://github.com/rafaelrfl0900-ship-it?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-em%20desenvolvimento-7C3AED?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="Repositórios em desenvolvimento"></a>
-  <a href="https://github.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it" target="_blank"><img src="https://img.shields.io/badge/README-do%20perfil-0EA5E9?style=for-the-badge&logo=markdown&logoColor=white" target="_blank" alt="README do perfil"></a>
-  <img src="https://img.shields.io/badge/Status-aprendendo-22C55E?style=for-the-badge" alt="Status aprendendo">
-</div>
-
-## Projetos em desenvolvimento
+| Projeto | O que mostra | Próximo passo técnico |
+|---|---|---|
+| [Nexus Operacional](https://github.com/rafaelrfl0900-ship-it/nexus-operacional) | Sistema operacional industrial com Next.js, NestJS, Prisma, PostgreSQL, Docker, testes e importação de planilhas. | Fortalecer deploy, screenshots, roteiro de demo e dados de exemplo. |
+| [Fisio Nadine](https://github.com/rafaelrfl0900-ship-it/fisio_nadine) | Protótipo de agenda para fisioterapia com pacientes, atendimentos e financeiro. | Sair do arquivo único para estrutura React/Vite organizada. |
+| Simulador educativo de phishing | Estudo local e seguro sobre phishing, login fictício, MFA fictício, sinais de alerta e prevenção. | Publicar repositório próprio com README, screenshots e demo estática. |
 
 <div align="center">
   <a href="https://github.com/rafaelrfl0900-ship-it/nexus-operacional">
@@ -54,11 +57,24 @@ Sou iniciante e estou usando este GitHub para registrar minha evolução. As lin
   </a>
 </div>
 
-- `nexus-operacional`: projeto em evolução no meu portfólio.
-- `fisio_nadine`: projeto em desenvolvimento para praticar organização e interface.
-- Simulador educativo de phishing: estudo local e seguro sobre mensagens falsas, login fictício e prevenção.
+<details>
+  <summary><strong>Como estou evoluindo como desenvolvedor</strong></summary>
 
-> Tudo aqui faz parte do meu processo de aprendizado. Alguns projetos podem estar incompletos ou em melhoria.
+  - Antes de adicionar efeito visual, tento entender o fluxo do usuário.
+  - Estou aprendendo a separar protótipo de aplicação pronta.
+  - Estou treinando escrever README que explica objetivo, stack, execução e próximos passos.
+  - Quero melhorar testes automatizados, tipagem e organização por domínio.
+  - Quero transformar projetos soltos em experiências que alguém consiga abrir, rodar e avaliar.
+</details>
+
+## Links rápidos
+
+<div>
+  <a href="https://github.com/rafaelrfl0900-ship-it" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub do Rafael"></a>
+  <a href="https://github.com/rafaelrfl0900-ship-it?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-7C3AED?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="Repositórios"></a>
+  <a href="https://github.com/rafaelrfl0900-ship-it/nexus-operacional" target="_blank"><img src="https://img.shields.io/badge/Projeto%20principal-Nexus%20Operacional-0EA5E9?style=for-the-badge" target="_blank" alt="Nexus Operacional"></a>
+  <img src="https://img.shields.io/badge/Status-aprendendo%20com%20projetos-22C55E?style=for-the-badge" alt="Status aprendendo com projetos">
+</div>
 
 ## Evolução no GitHub
 
@@ -67,7 +83,5 @@ Sou iniciante e estou usando este GitHub para registrar minha evolução. As lin
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelrfl0900-ship-it&theme=dracula&hide_border=true&area=true&custom_title=Minha%20evolu%C3%A7%C3%A3o%20no%20GitHub" alt="Gráfico de evolução do Rafael no GitHub" />
   </a>
 </div>
-
-##
 
 ![Snake animation](https://raw.githubusercontent.com/rafaelrfl0900-ship-it/rafaelrfl0900-ship-it/output/github-snake.svg)
